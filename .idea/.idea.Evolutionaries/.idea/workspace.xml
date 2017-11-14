@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="955a9ac9-3266-423e-9fb4-011d7b485773" name="Default" comment="" />
+    <list default="true" id="955a9ac9-3266-423e-9fb4-011d7b485773" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Evolutionaries/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/74/748a1f3cbd11cc00d0001b588d76c639" afterPath="$PROJECT_DIR$/Library/metadata/74/748a1f3cbd11cc00d0001b588d76c639" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/96/961fcd60ad115cced000d78b8d76c639" afterPath="$PROJECT_DIR$/Library/metadata/96/961fcd60ad115cced000d78b8d76c639" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Evolutionaries/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Evolutionaries/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Sources/PaintVertices.js" afterPath="$PROJECT_DIR$/Assets/Sources/PaintVertices.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Evolutionaries.sln" afterPath="$PROJECT_DIR$/Evolutionaries.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +21,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CrumpleMesh.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Sources/CrumpleMesh.js">
+      <file leaf-file-name="MorphObject.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Sources/MorphObject.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="240">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <marker date="1510649320000" expanded="true" signature="6:132" ph="..." />
+                <marker date="1510649320000" expanded="true" signature="175:5915" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="544:1880" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="576:608" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="677:1795" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="853:1787" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="961:1776" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="991:1201" ph="/* Don't update mesh collider every frame since physX ... */" />
+                <marker date="1510649320000" expanded="true" signature="1245:1360" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="1830:1875" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="1902:2006" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="2081:2143" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="2217:2320" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="2389:2453" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="2578:4335" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="2892:3237" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="3383:4226" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="3670:4038" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="4369:4547" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="4441:4542" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="4600:5901" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="5127:5751" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="5387:5443" ph="{...}" />
+                <marker date="1510649320000" expanded="true" signature="5489:5678" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/MorphObject.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Sources/CrumpleMesh.js" />
+        <option value="$PROJECT_DIR$/Assets/Sources/PaintVertices.js" />
+        <option value="$PROJECT_DIR$/Assets/Sources/MorphObject.cs" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -33,6 +83,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -66,7 +117,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510648139839</updated>
-      <workItem from="1510648144623" duration="201000" />
+      <workItem from="1510648144623" duration="892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201000" />
+    <option name="totallyTimeSpent" value="892000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -117,9 +168,9 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -146,11 +197,52 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Sources/PaintVertices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2955">
+          <caret line="197" column="1" lean-forward="false" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Sources/CrumpleMesh.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Sources/MorphObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <marker date="1510649320000" expanded="true" signature="6:132" ph="..." />
+            <marker date="1510649320000" expanded="true" signature="175:5915" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="544:1880" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="576:608" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="677:1795" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="853:1787" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="961:1776" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="991:1201" ph="/* Don't update mesh collider every frame since physX ... */" />
+            <marker date="1510649320000" expanded="true" signature="1245:1360" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="1830:1875" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="1902:2006" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="2081:2143" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="2217:2320" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="2389:2453" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="2578:4335" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="2892:3237" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="3383:4226" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="3670:4038" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="4369:4547" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="4441:4542" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="4600:5901" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="5127:5751" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="5387:5443" ph="{...}" />
+            <marker date="1510649320000" expanded="true" signature="5489:5678" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
