@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Sculpt vertices.unity
+- path: Assets/Planet Builder.unity
   isLoaded: 1
   isActive: 1

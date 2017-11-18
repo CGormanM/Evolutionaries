@@ -3,21 +3,17 @@
   <component name="ContentModelStore">
     <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_Evolutionaries.695669877.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
-      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
-      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Plugins" t="Include">
-          <e p="Editor" t="Include">
-            <e p="JetBrains" t="Include">
-              <e p="Unity3DRider.cs" t="Include" />
-            </e>
-          </e>
-          <e p="MeshExtrusion.cs" t="Include" />
-          <e p="Perlin.cs" t="Include" />
+        <e p="Editor" t="Include">
+          <e p="CreateIcoSphere.cs" t="Include" />
         </e>
-        <e p="Sources" t="Include">
-          <e p="MorphObject.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="DrawNormals.cs" t="Include" />
+          <e p="LowerPoly.cs" t="Include" />
+          <e p="MorphSphere.cs" t="Include" />
+          <e p="WaveSphere.cs" t="Include" />
         </e>
       </e>
       <e p="Evolutionaries.sln" t="IncludeFlat" />
